@@ -1,0 +1,142 @@
+2026-10-05 17:39:43 | INFO     | main | ============================================================
+2026-10-05 17:39:43 | INFO     | main | CodeAlpha Web Scraping Project — START
+2026-10-05 17:39:43 | INFO     | main | Target pages: 5
+2026-10-05 17:39:43 | INFO     | main | ============================================================
+2026-10-05 17:39:43 | INFO     | src.scraper | Fetching page 1: https://books.toscrape.com/catalogue/page-1.html
+2026-10-05 17:39:45 | INFO     | src.scraper | Page 1 fetched (50,469 bytes)
+2026-10-05 17:39:45 | INFO     | src.parser | Page 1: found 20 book elements
+2026-10-05 17:39:45 | INFO     | main | Running total: 20 books
+2026-10-05 17:39:46 | INFO     | src.scraper | Fetching page 2: https://books.toscrape.com/catalogue/page-2.html
+2026-10-05 17:39:48 | INFO     | src.scraper | Page 2 fetched (50,877 bytes)
+2026-10-05 17:39:48 | INFO     | src.parser | Page 2: found 20 book elements
+2026-10-05 17:39:48 | INFO     | main | Running total: 40 books
+2026-10-05 17:39:49 | INFO     | src.scraper | Fetching page 3: https://books.toscrape.com/catalogue/page-3.html
+2026-10-05 17:39:50 | INFO     | src.scraper | Page 3 fetched (51,374 bytes)
+2026-10-05 17:39:50 | INFO     | src.parser | Page 3: found 20 book elements
+2026-10-05 17:39:50 | INFO     | main | Running total: 60 books
+2026-10-05 17:39:51 | INFO     | src.scraper | Fetching page 4: https://books.toscrape.com/catalogue/page-4.html
+2026-10-05 17:39:53 | INFO     | src.scraper | Page 4 fetched (52,524 bytes)
+2026-10-05 17:39:53 | INFO     | src.parser | Page 4: found 20 book elements
+2026-10-05 17:39:53 | INFO     | main | Running total: 80 books
+2026-10-05 17:39:54 | INFO     | src.scraper | Fetching page 5: https://books.toscrape.com/catalogue/page-5.html
+2026-10-05 17:39:55 | INFO     | src.scraper | Page 5 fetched (51,829 bytes)
+2026-10-05 17:39:55 | INFO     | src.parser | Page 5: found 20 book elements
+2026-10-05 17:39:55 | INFO     | main | Running total: 100 books
+2026-10-05 17:39:56 | INFO     | src.storage | Saved 100 rows → D:\Myfolder\Code_World\CodeAlpha_Webscraping\data\books_dataset.csv
+2026-10-05 17:39:56 | INFO     | src.storage | Saved 100 rows → D:\Myfolder\Code_World\CodeAlpha_Webscraping\data\books_dataset.json
+2026-10-05 17:39:56 | INFO     | main | ============================================================
+2026-10-05 17:39:56 | INFO     | main | ✓ Scraped 100 books in 13.2s
+2026-10-05 17:39:56 | INFO     | main | ✓ Unique books: 100
+2026-10-05 17:39:56 | INFO     | main | ✓ Avg price: £34.56
+2026-10-05 17:39:56 | INFO     | main | ✓ Rating distribution: {3: 22, 1: 22, 5: 19, 2: 19, 4: 18}
+2026-10-05 17:39:56 | INFO     | main | ============================================================
+2026-10-05 17:40:18 | INFO     | main | ============================================================
+2026-10-05 17:40:18 | INFO     | main | CodeAlpha Web Scraping Project — START
+2026-10-05 17:40:18 | INFO     | main | Target pages: 5
+2026-10-05 17:40:18 | INFO     | main | ============================================================
+2026-10-05 17:40:18 | INFO     | src.scraper | Fetching page 1: https://books.toscrape.com/catalogue/page-1.html
+2026-10-05 17:40:20 | INFO     | src.scraper | Page 1 fetched (50,469 bytes)
+2026-10-05 17:40:20 | INFO     | src.parser | Page 1: found 20 book elements
+2026-10-05 17:40:20 | INFO     | main | Running total: 20 books
+2026-10-05 17:40:21 | INFO     | src.scraper | Fetching page 2: https://books.toscrape.com/catalogue/page-2.html
+2026-10-05 17:40:23 | INFO     | src.scraper | Page 2 fetched (50,877 bytes)
+2026-10-05 17:40:23 | INFO     | src.parser | Page 2: found 20 book elements
+2026-10-05 17:40:23 | INFO     | main | Running total: 40 books
+2026-10-05 17:40:24 | INFO     | src.scraper | Fetching page 3: https://books.toscrape.com/catalogue/page-3.html
+2026-10-05 17:40:25 | INFO     | src.scraper | Page 3 fetched (51,374 bytes)
+2026-10-05 17:40:25 | INFO     | src.parser | Page 3: found 20 book elements
+2026-10-05 17:40:25 | INFO     | main | Running total: 60 books
+2026-10-05 17:40:26 | INFO     | src.scraper | Fetching page 4: https://books.toscrape.com/catalogue/page-4.html
+2026-10-05 17:40:28 | INFO     | src.scraper | Page 4 fetched (52,524 bytes)
+2026-10-05 17:40:28 | INFO     | src.parser | Page 4: found 20 book elements
+2026-10-05 17:40:28 | INFO     | main | Running total: 80 books
+2026-10-05 17:40:29 | INFO     | src.scraper | Fetching page 5: https://books.toscrape.com/catalogue/page-5.html
+2026-10-05 17:40:31 | INFO     | src.scraper | Page 5 fetched (51,829 bytes)
+2026-10-05 17:40:31 | INFO     | src.parser | Page 5: found 20 book elements
+2026-10-05 17:40:31 | INFO     | main | Running total: 100 books
+2026-10-05 17:40:32 | INFO     | src.storage | Saved 100 rows → D:\Myfolder\Code_World\CodeAlpha_Webscraping\data\books_dataset.csv
+2026-10-05 17:40:32 | INFO     | src.storage | Saved 100 rows → D:\Myfolder\Code_World\CodeAlpha_Webscraping\data\books_dataset.json
+2026-10-05 17:40:32 | INFO     | main | ============================================================
+2026-10-05 17:40:32 | INFO     | main | ✓ Scraped 100 books in 13.8s
+2026-10-05 17:40:32 | INFO     | main | ✓ Unique books: 100
+2026-10-05 17:40:32 | INFO     | main | ✓ Avg price: £34.56
+2026-10-05 17:40:32 | INFO     | main | ✓ Rating distribution: {3: 22, 1: 22, 5: 19, 2: 19, 4: 18}
+2026-10-05 17:40:32 | INFO     | main | ============================================================
+2026-10-05 17:41:15 | INFO     | main | ============================================================
+2026-10-05 17:41:15 | INFO     | main | CodeAlpha Web Scraping Project — START
+2026-10-05 17:41:15 | INFO     | main | Target pages: 10
+2026-10-05 17:41:15 | INFO     | main | ============================================================
+2026-10-05 17:41:15 | INFO     | src.scraper | Fetching page 1: https://books.toscrape.com/catalogue/page-1.html
+2026-10-05 17:41:16 | INFO     | src.scraper | Page 1 fetched (50,469 bytes)
+2026-10-05 17:41:16 | INFO     | src.parser | Page 1: found 20 book elements
+2026-10-05 17:41:16 | INFO     | main | Running total: 20 books
+2026-10-05 17:41:17 | INFO     | src.scraper | Fetching page 2: https://books.toscrape.com/catalogue/page-2.html
+2026-10-05 17:41:19 | INFO     | src.scraper | Page 2 fetched (50,877 bytes)
+2026-10-05 17:41:19 | INFO     | src.parser | Page 2: found 20 book elements
+2026-10-05 17:41:19 | INFO     | main | Running total: 40 books
+2026-10-05 17:41:20 | INFO     | src.scraper | Fetching page 3: https://books.toscrape.com/catalogue/page-3.html
+2026-10-05 17:41:22 | INFO     | src.scraper | Page 3 fetched (51,374 bytes)
+2026-10-05 17:41:22 | INFO     | src.parser | Page 3: found 20 book elements
+2026-10-05 17:41:22 | INFO     | main | Running total: 60 books
+2026-10-05 17:41:23 | INFO     | src.scraper | Fetching page 4: https://books.toscrape.com/catalogue/page-4.html
+2026-10-05 17:41:24 | INFO     | src.scraper | Page 4 fetched (52,524 bytes)
+2026-10-05 17:41:24 | INFO     | src.parser | Page 4: found 20 book elements
+2026-10-05 17:41:24 | INFO     | main | Running total: 80 books
+2026-10-05 17:41:25 | INFO     | src.scraper | Fetching page 5: https://books.toscrape.com/catalogue/page-5.html
+2026-10-05 17:41:27 | INFO     | src.scraper | Page 5 fetched (51,829 bytes)
+2026-10-05 17:41:27 | INFO     | src.parser | Page 5: found 20 book elements
+2026-10-05 17:41:27 | INFO     | main | Running total: 100 books
+2026-10-05 17:41:28 | INFO     | src.scraper | Fetching page 6: https://books.toscrape.com/catalogue/page-6.html
+2026-10-05 17:41:29 | INFO     | src.scraper | Page 6 fetched (51,602 bytes)
+2026-10-05 17:41:30 | INFO     | src.parser | Page 6: found 20 book elements
+2026-10-05 17:41:30 | INFO     | main | Running total: 120 books
+2026-10-05 17:41:31 | INFO     | src.scraper | Fetching page 7: https://books.toscrape.com/catalogue/page-7.html
+2026-10-05 17:41:32 | INFO     | src.scraper | Page 7 fetched (51,173 bytes)
+2026-10-05 17:41:32 | INFO     | src.parser | Page 7: found 20 book elements
+2026-10-05 17:41:32 | INFO     | main | Running total: 140 books
+2026-10-05 17:41:33 | INFO     | src.scraper | Fetching page 8: https://books.toscrape.com/catalogue/page-8.html
+2026-10-05 17:41:35 | INFO     | src.scraper | Page 8 fetched (51,144 bytes)
+2026-10-05 17:41:35 | INFO     | src.parser | Page 8: found 20 book elements
+2026-10-05 17:41:35 | INFO     | main | Running total: 160 books
+2026-10-05 17:41:36 | INFO     | src.scraper | Fetching page 9: https://books.toscrape.com/catalogue/page-9.html
+2026-10-05 17:41:37 | INFO     | src.scraper | Page 9 fetched (50,799 bytes)
+2026-10-05 17:41:37 | INFO     | src.parser | Page 9: found 20 book elements
+2026-10-05 17:41:37 | INFO     | main | Running total: 180 books
+2026-10-05 17:41:38 | INFO     | src.scraper | Fetching page 10: https://books.toscrape.com/catalogue/page-10.html
+2026-10-05 17:41:40 | INFO     | src.scraper | Page 10 fetched (51,145 bytes)
+2026-10-05 17:41:40 | INFO     | src.parser | Page 10: found 20 book elements
+2026-10-05 17:41:40 | INFO     | main | Running total: 200 books
+2026-10-05 17:41:41 | INFO     | src.storage | Saved 200 rows → D:\Myfolder\Code_World\CodeAlpha_Webscraping\data\books_dataset.csv
+2026-10-05 17:41:41 | INFO     | src.storage | Saved 200 rows → D:\Myfolder\Code_World\CodeAlpha_Webscraping\data\books_dataset.json
+2026-10-05 17:41:41 | INFO     | main | ============================================================
+2026-10-05 17:41:41 | INFO     | main | ✓ Scraped 200 books in 26.4s
+2026-10-05 17:41:41 | INFO     | main | ✓ Unique books: 200
+2026-10-05 17:41:41 | INFO     | main | ✓ Avg price: £34.80
+2026-10-05 17:41:41 | INFO     | main | ✓ Rating distribution: {1: 49, 2: 41, 4: 38, 5: 37, 3: 35}
+2026-10-05 17:41:41 | INFO     | main | ============================================================
+2026-10-05 17:44:05 | INFO     | src.parser | Page 1: found 1 book elements
+2026-10-05 23:24:43 | INFO     | main | ============================================================
+2026-10-05 23:24:43 | INFO     | main | CodeAlpha Web Scraping Project — START
+2026-10-05 23:24:43 | INFO     | main | Target pages: 5
+2026-10-05 23:24:43 | INFO     | main | ============================================================
+2026-10-05 23:24:43 | INFO     | src.scraper | Fetching page 1: https://books.toscrape.com/catalogue/page-1.html
+2026-10-05 23:24:45 | INFO     | src.scraper | Page 1 fetched (50,469 bytes)
+2026-10-05 23:24:45 | ERROR    | main | Page 1 failed permanently: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-10-05 23:24:45 | INFO     | src.scraper | Fetching page 2: https://books.toscrape.com/catalogue/page-2.html
+2026-10-05 23:24:47 | INFO     | src.scraper | Page 2 fetched (50,877 bytes)
+2026-10-05 23:24:47 | ERROR    | main | Page 2 failed permanently: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-10-05 23:24:47 | INFO     | src.scraper | Fetching page 3: https://books.toscrape.com/catalogue/page-3.html
+2026-10-05 23:24:49 | INFO     | src.scraper | Page 3 fetched (51,374 bytes)
+2026-10-05 23:24:49 | ERROR    | main | Page 3 failed permanently: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-10-05 23:24:49 | INFO     | src.scraper | Fetching page 4: https://books.toscrape.com/catalogue/page-4.html
+2026-10-05 23:24:50 | INFO     | src.scraper | Page 4 fetched (52,524 bytes)
+2026-10-05 23:24:50 | ERROR    | main | Page 4 failed permanently: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-10-05 23:24:50 | INFO     | src.scraper | Fetching page 5: https://books.toscrape.com/catalogue/page-5.html
+2026-10-05 23:24:52 | INFO     | src.scraper | Page 5 fetched (51,829 bytes)
+2026-10-05 23:24:52 | ERROR    | main | Page 5 failed permanently: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-10-05 23:24:52 | WARNING  | src.storage | No rows to save.
+2026-10-05 23:24:52 | INFO     | src.storage | Saved 0 rows → D:\CodeAlpha task1\CodeAlpha_webscraping\data\books_dataset.json
+2026-10-05 23:24:52 | INFO     | main | ============================================================
+2026-10-05 23:24:52 | INFO     | main | ✓ Scraped 0 books in 9.1s
+2026-10-05 23:24:52 | INFO     | main | ✓ Unique books: 0
+2026-10-05 23:24:52 | INFO     | main | ============================================================
